@@ -1,6 +1,10 @@
-# C:\Users\AxelGMunoz 👨🏾‍💻
+<h1 align="center">C:\Users\AxelGMunoz 👨🏾‍💻</h1>
 
-<a href="https://www.twitter.com/AxelGMunoz">![Static Badge](https://img.shields.io/badge/AxelGMunoz-black?logo=X)</a>
+<div align="center">
+  <a href="https://www.twitter.com/AxelGMunoz" target="_blank">
+    <img alt="X Logo" src="https://img.shields.io/badge/AxelGMunoz-black?logo=X" />
+  </a>
+</div>
 
 Hello, I'm Axel Muñoz and I'm from Argentina. When I was 11 years old I wondered how video games were made. Today, at 28 years old, I can say that I learned a lot about the world of programming. Life led me to web and program development, but my love for video games always leads me to programming and learning about video game development.
 
