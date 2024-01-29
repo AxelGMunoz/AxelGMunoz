@@ -6,7 +6,7 @@
   </a>
 </div>
 
-Hello, I'm Axel Muñoz and I'm from Argentina. When I was 11 years old I wondered how video games were made. Today, at 28 years old, I can say that I learned a lot about the world of programming. Life led me to web and program development, but my love for video games always leads me to programming and learning about video game development.
+Hello, I'm Axel Muñoz and I'm from Argentina. When I was 11 years old I wondered how video games were made, without knowing that this would accompany me throughout my life. Life led me to web and program development, but my love for video games always leads me to programming and learning about video game development.
 
 #### Programming Languages && Technologies
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
